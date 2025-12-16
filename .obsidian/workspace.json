@@ -11,10 +11,24 @@
             "id": "57f190171b4df6d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BF/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           },
           {
@@ -188,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ec0942e2afc4eae",
+  "active": "57f190171b4df6d9",
   "lastOpenFiles": [
+    "BF/Untitled.md",
     "Old Projects",
     "BF",
     "Drawing 2025-12-14 01.39.57.excalidraw.md",
@@ -230,7 +245,6 @@
     "Untitled.base",
     "Old Projects/OOTMB/List of bots.md",
     "Example Stuff/Vim Example Document.md",
-    "Old Projects/FoA",
-    "Old Projects/OOTMB"
+    "Old Projects/FoA"
   ]
 }
