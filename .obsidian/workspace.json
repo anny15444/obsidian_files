@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BF/Black Friday.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ec0942e2afc4eae",
+  "active": "f3e82ac01eac54eb",
   "lastOpenFiles": [
     "Example Stuff/Lorem ipsum.md",
     "BF/Black Friday.md",
