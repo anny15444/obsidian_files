@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BF/Untitled.md",
+                "file": "BF/Black Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Black Friday"
             }
           },
           {
@@ -202,9 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57f190171b4df6d9",
+  "active": "adf8a10c9b8f370d",
   "lastOpenFiles": [
-    "BF/Untitled.md",
+    "BF/Black Friday.md",
     "Old Projects",
     "BF",
     "Drawing 2025-12-14 01.39.57.excalidraw.md",
