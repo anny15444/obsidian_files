@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivitySquare",
       "LiAirVent",
       "LiImage",
       "LiHourglass",
-      "LiShoppingBag",
-      "LiSparkles"
+      "LiShoppingBag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "BF": "LiShoppingBag",
+  "BF": "LiActivitySquare",
   "Old Projects": "LiHourglass",
   "Old Projects/ToSD": "LiSparkles",
   "Old Projects/OOTMB": "LiWrench",
