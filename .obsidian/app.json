@@ -3,7 +3,7 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "strictLineBreaks": false,
   "vimMode": true
 }
