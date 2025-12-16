@@ -11,24 +11,15 @@
             "id": "f3e82ac01eac54eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Example Stuff/Lorem ipsum.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "bFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Lorem ipsum"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -178,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ec0942e2afc4eae",
+  "active": "adf8a10c9b8f370d",
   "lastOpenFiles": [
+    "Example Stuff/Lorem ipsum.md",
     "BF/Black Friday.md",
     "Old Projects",
     "BF",
@@ -191,7 +183,6 @@
     "Daily Notes",
     "a",
     "Example Stuff/Untitled.canvas",
-    "Example Stuff/Lorem ipsum.md",
     "Example Stuff/Etiam.md",
     "Example Stuff/Blandit.md",
     "Old Projects/FoA/Styleized Greek Helmet.png",
