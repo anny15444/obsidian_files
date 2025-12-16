@@ -1,0 +1,6 @@
+# Act 1 : "The Exile"
+[[Savius & Dorkel|Savius]] reads a **magic scroll** that gives him powerful abilities to create and destroy matter itself. He goes on a series of adventures to improve his new found power. He does this to prove to his [[Kelak | father]] and to himself that his exile from his home was wrongful. Savius goes through harsh challenges as his character develops from a moody and stoic prince, to a friendly and more emotionally vulnerable person. Then suddenly, an shockingly powerful [[Janus|opponent]] severely harms Savius in an intense fight. Although Savius wins this battle, **he is irreparably damaged** and is reverted to a child-like intelligence and temper. From this point onward he **lacks any memories from before or during the fight.** Due to his condition, he is unable to recall his name, so he goes by [[Savius & Dorkel|Dorkel]]  for the rest of the story. Dorkel was physically transformed into a short, buff brute that relies on strength and anger to solve his problems. The only remaining "memory" Dorkel retains is his drive to get more powerful to prove *something*. 
+
+
+---
+# Act 2 : "Memories"
